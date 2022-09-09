@@ -1,1 +1,7 @@
 # WoWAddon
+
+--- 
+
+## Purpose
+## Functionality
+## Walktrough
