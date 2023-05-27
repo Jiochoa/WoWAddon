@@ -12,3 +12,12 @@ This Addon should identify the type of herbs that are in the map without having 
 
 ## Development Information
 N/A
+
+
+--- 
+Useful commands:
+
+disable Lua errors:
+- `/console scriptErrors 0`
+- `/run EQUIPPED_LAST=500`
+- `/run ToggleBag(0)`
